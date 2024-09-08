@@ -12,6 +12,4 @@ I’m always eager to learn more, build more, and share what I know. As I like t
 
 Happy coding! :)
 
-shtmthw/shtmthw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
